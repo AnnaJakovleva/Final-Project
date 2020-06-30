@@ -1,7 +1,7 @@
 Facebook connections checker 0.0.1
 The program to check the mutual relations of your friends on Facebook.
 Python 3.8.3
-Extensions used: requests 2.7.0 , BeautifulSoup 4.9.1
+Extensions used: requests 2.7.0 , BeautifulSoup 4.9.1, Selenium 
 
 Developer's guide:
 Supports Python 3+
