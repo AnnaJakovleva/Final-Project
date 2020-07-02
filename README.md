@@ -6,6 +6,7 @@ The program to check the mutual relations of your friends on Facebook.
 Developer's guide: Python 3.8.3 . Extensions used: requests 2.7.0 , BeautifulSoup 4.9.1, Selenium. 
 Supports Python 3+ Dependencies: requests, beautiful soup, active internet connection,1 GB RAM, processer (CPU gen 6 or newer). 
 Download Python 3.8.3  from https://www.google.com/url?sa=t&rct=j&q=&esrc=s&source=web&cd=&cad=rja&uact=8&ved=2ahUKEwjO9uaSga_qAhXxwosKHT4zDjsQFjAAegQIAxAB&url=https%3A%2F%2Fwww.python.org%2Fdownloads%2Frelease%2Fpython-383%2F&usg=AOvVaw1JuXjux0FdTkEVmTWKGaBE . 
+
 Step 1: Download the Python 3 Installer
 Step 2: Run the Installer
 
